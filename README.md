@@ -17,6 +17,7 @@ docker build -t devmesh/eureka .
 ```
 ./gradlew bootrun
 ```
+It serves eureka service on http://localhost:8761
 
 ### Run with Docker
 ```
